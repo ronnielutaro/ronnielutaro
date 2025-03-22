@@ -7,7 +7,7 @@
 
 ### 🌍 About Me
 
-For over 5 years, I have helped businesses and organizations maximize their impact and **ROI** through **Data-Driven Project Management**, **Digital Transformation**, and **Venture Building**.
+For over 5 years, I have helped businesses and organizations maximize their impact and ROI through **Data-Driven Project Management**, **Digital Transformation**, and **Venture Building**.
 
 At **[StartHub Africa](https://starthubafrica.org/)**, I lead innovation & venture-building projects, helping early-stage founders develop scalable products, secure customers, and drive revenue growth. To date, I’ve worked on projects that have supported **100+ startups**, guiding them from idea generation to market readiness.
 
