@@ -23,7 +23,7 @@ I’m currently exploring how **Artificial Intelligence (AI)** and **Advertising
 > Through R&D, I’m developing **AI-driven AdTech tools tailored for Africa** to enhance business performance, reduce costs, and scale growth.
 
 ### 🛠 Skills & Tech Stack  
-  `Git`, `GitHub`, `VS Code`, `Figma`, `Notion`, `Trello`, `C#`, `ASP.NET Core`, `Entity Framework Core`, `JavaScript`, `React.js`, `Next.js`, `Python`, `SQL`, `PostHog`, `Microsoft Azure`
+   `C#`, `ASP.NET Core`, `Entity Framework Core`, `JavaScript`, `React.js`, `Next.js`, `Python`, `SQL`, `PostHog`, `Microsoft Azure`, `Git`, `GitHub`
 
 ### 🌐 Let’s Connect!
 
