@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ronnie 👋</h1>
 
 <p align="center">
-  Data-Driven Project Manager | Building AI-Powered Advertising Technology in Africa (AdTech) | Software Engineer | Product Manager<br/>
+  Data-Driven Product & Project Manager | Building AI-Powered Advertising Technology in Africa (AdTech) | Software Engineer<br/>
   Helping businesses scale and automate through Digital Transformation in African markets.
 </p>
 
