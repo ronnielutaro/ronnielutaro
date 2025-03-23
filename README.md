@@ -25,4 +25,4 @@ I’m currently exploring how **Artificial Intelligence (AI)** and **Advertising
 ### Skills & Tech Stack  
    `C#`, `ASP.NET Core`, `Entity Framework Core`, `JavaScript`, `React.js`, `Next.js`, `Python`, `SQL`, `PostHog`, `Microsoft Azure`, `Git`, `GitHub`
 
-### Let’s Connect! [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.github.io), [Email](mailto:ronnielutaro@outlook.com)
+**Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.github.io), [Email](mailto:ronnielutaro@outlook.com)
