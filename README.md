@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Ronnie 👋</h1>
 
-<p align="center">
-  Data-Driven Project Manager | Building AI-Powered Advertising Technology in Africa (AdTech) | Software Engineer | Venture Builder
-</p>
-
 ### About Me
 
 For over 7 years, I have helped Businesses and Organizations Maximize Impact & ROI across **Digital Transformation**, **Data-Driven Project Management**, and **Venture Building**.
