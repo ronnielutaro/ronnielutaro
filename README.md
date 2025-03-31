@@ -10,12 +10,12 @@ Previously, I worked as a Software Engineer & Consultant with leading organizati
 
 ### Current Focus Areas
 
-I’m currently exploring how **Artificial Intelligence (AI)** and **Advertising Technology (AdTech)** can empower African businesses to:
+I’m currently exploring how **Advertising Technology (AdTech)** can empower African businesses to:
 - Optimize Ad spend in real-time  
 - Boost campaign efficiency & reduce budget waste  
 - Unlock new possibilities in programmatic advertising  
 
-> Through R&D, I’m developing **AI-driven AdTech tools tailored for Africa** to enhance business performance, reduce costs, and scale growth.
+> Through R&D, I’m developing tools to enhance business performance, reduce costs, and scale growth.
 
 ### Skills & Tech Stack  
    `C#`, `ASP.NET Core`, `Entity Framework Core`, `JavaScript`, `React.js`, `Next.js`, `Python`, `SQL`, `PostHog`, `Microsoft Azure`, `Git`, `GitHub`
