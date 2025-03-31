@@ -2,7 +2,7 @@
 
 ### About Me
 
-For over 7 years, I have helped Businesses and Organizations Maximize Impact & ROI across **Data-Driven Product Development** and **Project Management**.
+For over 7 years, I have helped Businesses and Organizations Maximize Impact & ROI across **Product Development** and **Project Management**.
 
 At **[StartHub Africa](https://starthubafrica.org/)**, I lead innovation & venture-building projects, helping early-stage founders develop scalable products, secure customers, and drive revenue growth. To date, I’ve worked on projects that have supported **100+ youth founders & startups**, guiding them from idea generation to market readiness.
 
