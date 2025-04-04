@@ -2,7 +2,7 @@
 
 ### About Me
 
-For over 5 years, I have helped Businesses Maximize Growth through **Data-Driven Product Development** in African Markets.
+For over 5 years, I have helped Businesses Maximize Growth through **Data-Driven Product Development** & **Advertising Technology (AdTech)** in African Marketsin African Markets.
 
 At **[StartHub Africa](https://starthubafrica.org/)**, I lead innovation & venture-building projects, helping early-stage founders develop scalable products, secure customers, and drive revenue growth. To date, I’ve worked on projects that have supported **100+ youth founders & startups**, guiding them from idea generation to market readiness.
 
