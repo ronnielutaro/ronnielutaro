@@ -10,9 +10,9 @@ Previously, I worked as a Software Engineer & Consultant with leading organizati
 
 ### Current Focus Areas
 
-I’m currently exploring how **Advertising Technology (AdTech)** can empower African businesses to:
-- Optimize Ad spend in real-time  
-- Boost campaign efficiency & reduce budget waste  
+I’m currently exploring how **Advertising Technology (AdTech)** can empower Small to Medium size African Agencies to:
+- Boost campaign efficiency & automate painful workflows
+- Optimize Ad spend in real-time & reduce budget waste 
 - Unlock new possibilities in programmatic advertising  
 
 > Through R&D, I’m developing tools to enhance business performance, reduce costs, and scale growth.
