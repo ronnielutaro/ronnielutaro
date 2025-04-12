@@ -15,7 +15,7 @@ I’m currently exploring how **Advertising Technology (AdTech)** can empower Sm
 - Optimize Ad spend in real-time & reduce budget waste 
 - Unlock new possibilities in programmatic advertising  
 
-> Through R&D, I’m developing tools to enhance business performance, reduce costs, and scale growth.
+> Through R&D, I’m developing tools to help agencies enhance business performance, reduce costs, and scale growth.
 
 ### Skills & Tech Stack  
    `C#`, `ASP.NET Core`, `Entity Framework Core`, `JavaScript`, `React.js`, `Next.js`, `Python`, `SQL`, `PostHog`, `Microsoft Azure`, `Git`, `GitHub`
