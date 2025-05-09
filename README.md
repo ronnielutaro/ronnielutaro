@@ -10,10 +10,7 @@ Previously, I worked as a Software Engineer & Consultant with leading organizati
 
 ### What I’m Building
 
-I’m currently exploring how **Advertising Technology (AdTech)** can empower Small to Medium size African Agencies to:
-- Boost campaign efficiency & automate painful workflows
-- Optimize Ad spend in real-time & reduce budget waste 
-- Unlock new possibilities in programmatic advertising  
+I’m currently exploring how **Advertising Technology (AdTech)** can help Small to Medium size African Agencies work smarter, grow faster, and scale sustainably in African Markets without bloated costs or complexity.
 
 > Through R&D, I’m developing tools to help agencies work smarter, grow faster, and scale sustainably without bloated costs or complexity.
 
