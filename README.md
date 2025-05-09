@@ -8,6 +8,8 @@ At **[StartHub Africa](https://starthubafrica.org/)**, I lead innovation & ventu
 
 Previously, I worked as a Software Engineer & Consultant with leading organizations & companies like Andela, United Nations (UN Women) and early-stage startups such as Agri-Logistics Uganda. My experience includes leading the design and development of software products, equipping me with a solid foundation in creating solutions that solve real-world problems.
 
+### What I’m Building
+
 
 
 ### Skills & Focus Areas  
