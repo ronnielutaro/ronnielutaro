@@ -18,6 +18,6 @@ I’m currently exploring how **Advertising Technology (AdTech)** can empower Sm
 > Through R&D, I’m developing tools to help agencies work smarter, grow faster, and scale sustainably without bloated costs or complexity.
 
 ### Skills & Focus Areas  
-   `Product Strategy & Development`, `Project & Program Management`, `AdTech & Marketing Automation`, `Innovation Infrastructure & Ecosystem Building`, `Technical & Visual Storytelling`.
+   `Product Strategy & Development`, `AdTech & Marketing Automation`, `Innovation Infrastructure & Ecosystem Building`, `Technical & Visual Storytelling`.
 
 **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.github.io), [Email](mailto:ronnielutaro@outlook.com)
