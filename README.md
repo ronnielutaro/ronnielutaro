@@ -2,7 +2,7 @@
 
 ### About Me
 
-With over 5 years of professional experience spanning across **Venture Building, Technical Product Design and Development, Digital Skills Mentorship & Coaching**, I help Businesses Maximize Growth in African Markets.
+With over 5 years of professional experience spanning across **Venture Building, Technical Product Design and Development, Digital Skills Mentorship & Coaching**,I help Businesses Maximize Growth in African Markets.
 
 At **[StartHub Africa](https://starthubafrica.org/)**, I lead innovation & venture-building projects, helping early-stage founders develop scalable products, secure customers, and drive revenue growth. To date, I’ve worked on projects that have supported **100+ youth founders & startups**, guiding them from idea generation to market readiness.
 
