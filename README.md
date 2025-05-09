@@ -2,7 +2,7 @@
 
 ### About Me
 
-For over 5 years, I have helped Businesses Maximize Growth through **Product Strategy, Product Development** & **Advertising Technology (AdTech)** in African Markets. In my spare time, I love to work on Visual Storytelling side-projects.
+With over 5 years of professional experience spanning across **Venture Building, Technical Product Design and Development, Digital Skills Training, Mentorship & Coaching** , I help Businesses Maximize Growth in African Markets
 
 At **[StartHub Africa](https://starthubafrica.org/)**, I lead innovation & venture-building projects, helping early-stage founders develop scalable products, secure customers, and drive revenue growth. To date, I’ve worked on projects that have supported **100+ youth founders & startups**, guiding them from idea generation to market readiness.
 
