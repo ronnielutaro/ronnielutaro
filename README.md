@@ -10,6 +10,8 @@ Previously, I worked as a Software Engineer & Consultant with leading organizati
 
 ### What I’m Building
 
+I’m currently exploring how **Advertising Technology (AdTech)** can empower Small to Medium size African Agencies to:
+
 
 
 ### Skills & Focus Areas  
