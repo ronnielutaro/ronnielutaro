@@ -6,7 +6,7 @@ With 5+ years of experience across **technical product development, startup acce
 
 Currently at **[StartHub Africa](https://starthubafrica.org/)**, I lead programs that turn ideas into scalable businesses by working closely with universities, innovation hubs, and ecosystem partners. My past work includes designing and building software products, training young women in STEM under the UN Women’s African Girls Can Code Initiative and building logistics and geospatial data tools for infrastructure development, equipping me with a solid foundation in creating solutions that solve real-world problems.
 
-**What I’m Currently Building:** CampaignRocket - A new class of core AI Infrastructure tools for Advertising Technology (AdTech) in African markets, helping advertisers and agencies unlock smarter campaign intelligence, automation, and performance at scale without bloated coasts or complexity. Tools that aim to fully:
+**What I’m Currently Building:** CampaignRocket - A new class of core AI Infrastructure tools for Advertising Technology (AdTech) in African markets, helping advertisers and agencies unlock smarter campaign intelligence, automation, and performance at scale without bloated coasts or complexity. The Tools aim to fully:
 - Boost campaign efficiency.
 - Reduce budget waste & maximize ROI/ROAS.
 - Unlock new possibilities in programmatic advertising. 
