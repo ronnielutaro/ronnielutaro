@@ -2,7 +2,7 @@
 
 ### About Me
 
-With 5+ years of experience across **technical product development, startup acceleration, and business development**, I’ve helped 100+ founders across East Africa move from idea to market, building real products, acquiring customers, and growing revenue.
+With 5+ years of experience across **technical product development, business development, startup incubation & acceleration**, I’ve helped 100+ founders across East Africa move from idea to market, building real products, acquiring customers, and growing revenue.
 
 Currently at **[StartHub Africa](https://starthubafrica.org/)**, I lead programs that turn ideas into scalable businesses by working closely with universities, innovation hubs, and ecosystem partners. My past work includes designing and building software products, training young women in STEM under the UN Women’s African Girls Can Code Initiative and building logistics and geospatial data tools for infrastructure development, equipping me with a solid foundation in creating solutions that solve real-world problems.
 
