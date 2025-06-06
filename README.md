@@ -11,4 +11,4 @@ Currently at **[StartHub Africa](https://starthubafrica.org/)**, I lead programs
 - Reduce budget waste & maximize ROI/ROAS.
 - Unlock new possibilities in programmatic advertising. 
 
-I’m passionate about enabling real progress through products, people, and platforms. If you're working on something exciting in Advertising, Startup Acceleration, or Product Strategy in African markets, **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.github.io), [Email](mailto:ronnielutaro@outlook.com)
+I’m passionate about enabling real progress through products, people, and platforms. If you're working on something exciting in Advertising, Startup Acceleration, or Product Strategy in African markets, **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.com), [Email](mailto:ronnielutaro@outlook.com)
