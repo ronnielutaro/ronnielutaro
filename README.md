@@ -2,8 +2,12 @@
 
 ### About Me
 
-With 5+ years of experience across **technical product development, business development, early-stage startup incubation & acceleration**, I’ve helped 100+ founders across East Africa move from idea to market, building real products, acquiring customers, and growing revenue.
+I build scalable innovation and growth systems that drive tangible business outcomes across Africa’s technology, entrepreneurship, and digital transformation ecosystems.
 
-Currently at **[StartHub Africa](https://starthubafrica.org/)**, I lead programs that turn ideas into scalable businesses by working closely with universities, innovation hubs, and ecosystem partners. My past work includes designing and building software products, training young women in STEM as a consultant under the [UN Women’s African Girls Can Code Initiative](https://www.youtube.com/watch?v=Z_YCW32Up7o) and building logistics and geospatial data tools for infrastructure development, equipping me with a solid foundation in creating solutions that solve real-world problems.
+With 5+ years of experience across product development and startup acceleration I’ve helped 100+ founders across East Africa move from idea to market, building real products, acquiring customers, and generating revenue.
 
-I’m passionate about enabling real progress through products, people, and platforms. If you're working on something exciting in African markets, **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.com), [Email](mailto:ronnielutaro@outlook.com)
+Currently at **[StartHub Africa](https://starthubafrica.org/)**, I lead programs that turn early-stage ideas into scalable businesses by working closely with universities, innovation hubs, and ecosystem partners. From guiding students to launch revenue-generating startups, to training innovation hub managers across East Africa, my focus is always on one thing: turning potential into tangible business outcomes. 
+
+Before this, I worked as a software engineer at Andela, Agri-Logistics Uganda, and as a consultant with the United Nations (UN Women), where I trained over 120 young women in practical coding and digital innovation as part of the [African Girls Can Code Initiative](https://www.youtube.com/watch?v=Z_YCW32Up7o).
+
+Whether it’s building products or enabling youth entrepreneurship through innovation ecosystems, I bring a mix of strategy, systems thinking, and technical background to every challenge I take on. If you're working on something exciting in African markets, from youth innovation to digital infrastructure, [UN Women’s African Girls Can Code Initiative](https://www.youtube.com/watch?v=Z_YCW32Up7o) **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.com), [Email](mailto:ronnielutaro@outlook.com)
