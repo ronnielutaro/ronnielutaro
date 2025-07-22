@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m a Project Manager & Product Leader currently working on innovation education products that unlock entrepreneurial potential across emerging markets. My work sits at the intersection of product strategy, user research, and systems design, turning ambitious ideas into scalable, high-impact learning products.
+I’m a Product Manager currently working on innovation education products that unlock entrepreneurial potential across emerging markets. My work sits at the intersection of product strategy, user research, and systems design, turning ambitious ideas into scalable, high-impact learning products.
 
 Whether I’m launching a new training program, building ecosystem capacity, or optimizing learner journeys, my focus is always the same: deliver products that are contextual, scalable, and drive real outcomes. I bring a mix of strategy, systems thinking, and technical background to every challenge I take on. 
 
