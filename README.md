@@ -2,8 +2,14 @@
 
 ### About Me
 
-7+ years of experience across technical product development, project management, startup incubation & acceleration. My work sits at the intersection of product strategy, user research, and business innovation, turning ambitious ideas into products that drive real business growth. 
+Project Manager at StartHub Africa, delivering high-impact innovation programs across East Africa. 7+ years at the intersection of product strategy, growth, and technical execution, turning ambitious ideas into measurable business outcomes. 
 
-I’ve worked on projects & products that have helped 100+ founders move from idea to market, launched innovation education programs in partnership with eco-system players, designed and built software products for logistics and infrastructure development, consulted for United Nations (UN Women) on the African Girls Can Code Initiative that empowered over 200+ youth girls with coding skills, equipping me with a solid foundation in creating solutions that solve real-world problems for real users.
+At StartHub, I’ve led programs such as ABED (150+ youth trained; 20+ agribusiness ventures), and the Innovation Hub Manager Masterclass (regional learning series), working with universities and ecosystem partners to drive real traction for founders.
+
+Previously: designed and delivered STEM programs with UN Women’s African Girls Can Code Initiative (200+ participants), plus hands-on software development in logistics & infrastructure.
+
+During my spare time, I’m building Rocketize, a solution that helps African SMBs cut Ad waste and maximize ROI.
+
+I blend product strategy, experiment-driven growth, and a hands-on software engineering background to ship contextual, scalable products, backed by clean KPIs and fast feedback loops. If you’re building a cool Product or working on something in MarTech or AdTech in Africa, let’s connect.
 
 If you’re working on something exciting in Product Development or Growth Hacking & Advertising for Startups, Small & Medium Businesses in emerging markets, **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.com), [Email](mailto:ronnielutaro@outlook.com)
