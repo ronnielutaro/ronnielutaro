@@ -10,6 +10,4 @@ Previously: designed and delivered STEM programs with UN Women’s African Girls
 
 During my spare time, I work on Rocketize, a side-project aimed at building solutions that help African Businesses cut Ad waste and maximize ROI.
 
-I blend product strategy, experiment-driven growth, and a hands-on software engineering background to ship contextual, scalable products, backed by clean KPIs and fast feedback loops. If you’re building a cool Product or working on something in MarTech or AdTech in Africa, let’s connect.
-
-If you’re working on something exciting in Product Development or Growth Hacking & Advertising for Startups, Small & Medium Businesses in emerging markets, **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.com), [Email](mailto:ronnielutaro@outlook.com)
+I blend product strategy, experiment-driven growth, and a hands-on software engineering background to ship contextual, scalable products, backed by clean KPIs and fast feedback loops. If you’re building a cool Product or working on something in MarTech or AdTech in Africa, **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Portfolio](https://ronnielutaro.com), [Email](mailto:ronnielutaro@outlook.com)
