@@ -2,7 +2,7 @@
 
 ### About Me
 
-Project Manager at StartHub Africa, delivering high-impact innovation programs across East Africa. 7+ years at the intersection of product strategy, growth, and technical execution, turning ambitious ideas into measurable business outcomes. 
+7+ years across product development, strategy, growth, and technical execution, turning ambitious ideas into measurable business outcomes. 
 
 At StartHub, I’ve led programs such as ABED (150+ youth trained; 20+ agribusiness ventures), and the Innovation Hub Manager Masterclass (regional learning series), working with universities and ecosystem partners to drive real traction for founders.
 
