@@ -4,7 +4,7 @@
 
 Product Manager with 4+ years of product work and a software engineering background. I translate user needs into Products they deeply love and care about. 
 
-At StartHub, I’ve supported 10+ founders from idea to market by running customer discovery, translating insights into requirements and features, and closing the loop with post-launch iteration. I’m also building Rocketize, a side project where I run end-to-end product cycles (interviews → PRDs → design → engineering → testing → analytics).
+At StartHub, I’ve supported 10+ founders from idea to market by running customer discovery, translating insights into requirements and features, and closing the loop with post-launch iteration. I’m also building Rocketize, a side project where I run end-to-end product cycles.
 
 Read more on my personal website where I write about my thoughts, projects I'm working on, and all major lessons, reflections & stories along the way at [ronnielutaro.com](ronnielutaro.com)
 
