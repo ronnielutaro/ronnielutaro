@@ -4,7 +4,7 @@
 
 Product Manager with 4+ years of product work and a software engineering background. I translate user needs into Products they deeply love and care about. 
 
-Read more on my personal website where I write about my thoughts, projects I'm working on, and all major lessons, reflections & stories along the way via [ronnielutaro.com](ronnielutaro.com)
+Read more on my personal website where I write about my thoughts, projects I'm working on, and all major lessons, reflections & stories along the way at [ronnielutaro.com](ronnielutaro.com)
 
 My sweet spot is at the intersection of core user needs and data-driven product iteration. I’m comfortable working with technical product teams, thanks to hands-on experience in C#/.NET, React, SQL, and Microsoft Azure.
 
