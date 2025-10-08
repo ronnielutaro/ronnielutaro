@@ -6,7 +6,7 @@ Product Manager with 4+ years of product work and a software engineering backgro
 
 Read more on my personal website where I write about my thoughts, projects I'm working on, and all major lessons, reflections & stories along the way at [ronnielutaro.com](ronnielutaro.com)
 
-My sweet spot is at the intersection of core user needs and building great products. I’m comfortable working with technical product teams, thanks to hands-on experience in C#/.NET, React, SQL, and Microsoft Azure.
+My sweet spot is at the intersection of core user needs and building great products. I’m comfortable working with technical product teams, thanks to hands-on technical software engineering experience.
 
 Currently at StartHub, I've supported more than 10 founders with product development, from idea to Market: running customer discovery interviews with real users, turning those insights into requirements and features. On the side, I’m also building Rocketize, a side-project where I run end-to-end (full-stack) product development cycles (interviews → PRDs → Design → Engineering → Testing and iteration based on real user feedback & behavior analytics using tools like PostHog).
 
