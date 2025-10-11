@@ -2,7 +2,7 @@
 
 ### About Me
 
-Product Manager with 4+ years of product work and a software engineering background. I translate user needs into Products they deeply love and care about. 
+Technical Product Manager with 4+ years of product work and a software engineering background. I translate user needs into Products they deeply love and care about. 
 
 At StartHub, I’ve supported 10+ founders from idea to market by running customer discovery, translating insights into requirements and features, and closing the loop with post-launch iteration. I’m also building Rocketize, a side project where I run end-to-end product cycles. The project is aimed at building a suite of intelligent tools for Marketing Teams to streamline & improve the efficiency of their operations & campaigns, while reducing Waste & maximizing Return On Ad Spend.
 
