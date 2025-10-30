@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m passionate about creating products that don’t just work. For me, it's about translating real user needs into Products that deliver business value. I'm very obsessed about what makes Great products standout. Building products and telling their stories is something I live for. I believe Great Products not only work but also empower users with a new superpower. That’s what drives my current work in MarTech and AdTech innovation, where I’m building tools that help businesses reduce ad waste, automate growth, and unlock new performance potential.
+I’m passionate about creating products that don’t just work. For me, it's about translating real user needs into Products that deliver business value. I'm very obsessed about what makes Great products standout. Building products and telling their stories is something I live for. Because I believe Great Products not only work but also empower users with a new superpower. That’s what drives my current work in MarTech and AdTech innovation, where I’m building tools that help businesses reduce ad waste, automate growth, and unlock new performance potential.
 
 Beyond technology, I’m equally drawn to storytelling and documentary filmmaking, capturing the real, human side of stories that shape Africa. I believe that while technology scales systems, storytelling scales truth.
 
