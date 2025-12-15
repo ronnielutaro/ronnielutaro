@@ -8,6 +8,4 @@ Beyond technology, I’m equally drawn to storytelling and documentary filmmakin
 
 Over the past 5+ years, I've worked across Product Development, Venture Building, Startup Incubation & Acceleration, helping founders turn ideas into scalable ventures. 
 
-You can find more of my reflections, learnings, and behind-the-scenes stories on [ronnielutaro.com](ronnielutaro.com), my space to document the journey of building, learning, and storytelling, because my wish is that what I discover along the way doesn’t die with me.
-
  **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Personal Blog](https://ronnielutaro.com), [Email](mailto:r.lutaro@rocketizetech.com)
