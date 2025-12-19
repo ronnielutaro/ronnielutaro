@@ -2,7 +2,7 @@
 
 ### About Me
 
-I’m obsessed about creating Products & Experiences that don't just work, but empower users & audiences, while delivering real Business Value. Over the past 5+ years, this has driven my work across Technology Innovation, Product Development, and Startup Acceleration. I’m currently building Market Intelligence tools that help Marketing Teams reduce ad waste, automate growth, and unlock new performance potential.
+Over the past 5+ years, I've worked across Technology Innovation, Product Development, and Startup Acceleration. I’m currently building a suite of Market Intelligence tools that help Marketing Teams reduce ad waste, automate growth, and unlock new performance potential.
 
 Beyond technology, I’m equally drawn to storytelling and filmmaking, capturing the real, human side of stories that shape Africa. I believe that while technology scales systems, storytelling scales truth.
 
