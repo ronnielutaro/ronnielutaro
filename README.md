@@ -2,7 +2,7 @@
 
 ### About Me
 
-Over the past 5+ years, I've worked across Technology Innovation, Product Development, and Startup Acceleration. My expertise in Product Strategy, Project Management, and Software Engineering underpins my ability to deliver impactful solutions to complex challenges. I'm very passionate about digital transformation, emerging technologies and how they can enhance business performance. I specialize in helping organizations navigate Digital Transformation by bridging the gap between complex software engineering and high-level project strategy.
+Over the past 5+ years, I've worked across Technology Innovation, Product Development, and Startup Acceleration. My expertise in Product Strategy, Project Management, and Software Engineering underpins my ability to deliver impactful solutions to complex challenges. I'm very passionate about digital transformation, emerging technologies and how they can enhance business performance. I specialize in helping organizations navigate Digital Transformation by bridging the gap between Technologies and Business Strategy.
 
 I've supported more than 50 founders across 2 different countries with Product Development & Go-To-Market. My approach focuses on translating core user needs into Products that generate real business value.
 
