@@ -2,8 +2,10 @@
 
 ### About Me
 
-Over the past 5+ years, I've worked across Technology Innovation, Product Development, and Startup Acceleration. Now as Founder and Software Engineer @RocketizeTech, I lead applied AI research and product development to create Market Intelligence tools for marketing teams. These tools aim to reduce ad waste, automate growth, and enable data-driven campaign strategies across multiple channels. My expertise in product strategy underpins my ability to deliver impactful solutions to complex challenges.
+Over the past 5+ years, I've worked across Technology Innovation, Product Development, and Startup Acceleration. My expertise in Product Strategy, Project Management, and Software Engineering underpins my ability to deliver impactful solutions to complex challenges. I'm very passionate about digital transformation, emerging technologies and how they can enhance business performance. 
 
-Beyond technology, I’m equally drawn to storytelling and filmmaking, capturing the real stories that shape Human Experiences. I believe that while technology scales systems, storytelling scales truth. When I'm not building technology, you'll find me screenwriting, storyboarding, editing footage or exploring ideas.
+I've supported more than 50 founders across 2 different countries with Product Development & Go-To-Market. My approach focuses on translating core user needs into Products that generate real business value.
+
+Beyond the technology, I’m equally drawn to storytelling, capturing the real stories that shape Human Experiences. I believe that while technology scales systems, storytelling scales truth. When I'm not building Technology or working on Projects, you'll find me writing or exploring ideas.
 
  **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Personal Blog](https://ronnielutaro.com), [Email](mailto:r.lutaro@rocketizetech.com)
