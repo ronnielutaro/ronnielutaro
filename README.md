@@ -2,7 +2,7 @@
 
 ### About Me
 
-Over the past 5+ years, I've worked across Technical Product Development, Digital Transformation, and Startup Acceleration. My experience in Product Strategy, Project Management, Artificial Intelligence, Software & Cloud Engineering underpin my ability to deliver impactful solutions to complex challenges. I'm very passionate about digital transformation, emerging technologies and how they enhance business performance. 
+Over the past 5+ years, I've worked across Technical Product Development and Startup Acceleration. My experience in Product Strategy, Project Management, Artificial Intelligence, Software & Cloud Engineering underpin my ability to deliver impactful solutions to complex challenges. I'm very passionate about digital transformation, emerging technologies and how they enhance business performance. 
 
 I've supported more than 50 founders across 2 different countries with Product Development & Go-To-Market. My approach focuses on translating core user needs into Products that generate real business value.
 
