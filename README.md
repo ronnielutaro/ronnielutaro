@@ -2,7 +2,7 @@
 
 ### About Me
 
-Over the past 8+ years, I've worked across Technical Product Development, Project Management, Data Science & Analytics, in different industries like Startup Incubation & Acceleration, Venture Building, and Digital Advertising Technology (AdTech). This underpins my ability to deliver impactful solutions to complex challenges.
+Over the past 8+ years, I've worked across Technical Product Development, Project Management, Data Science & Analytics, in industries like Startup Incubation & Acceleration, Business Development, Product Distribution and Advertising Technology (AdTech). This underpins my ability to deliver impactful solutions to complex challenges.
 
 Currently very passionate & obsessed with deeply understanding what drives real consumer behavior & buying decisions, beyond the obvious surface-level indicators. I'm on a mission to help a Million Businesses Enhance performance, and over the past 3+ years, I’ve supported 100+ founders across Uganda and Tanzania, helping teams launch products & generate more than UGX 10M+ in revenue while working with eco-system players like StartHub Africa, National ICT Innovation Hub, Stanbic Bank, UNDP, Mastercard Foundation, UN Women, RUFORUM, among others.
 
