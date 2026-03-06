@@ -2,7 +2,7 @@
 
 ### About Me
 
-Over 8+ years across FullStack Software Product Development, Project Management, Startup Incubation & Acceleration. This underpins my ability to deliver impactful solutions to complex challenges.           
+Over 8+ years across Software Product Development, Project Management, Startup Incubation & Acceleration. This underpins my ability to deliver impactful solutions to complex challenges.           
 
 Currently Obsessed with deeply understanding African Consumer Behavior & Buying Decisions beyond the obvious surface-level indicators. I'm on a mission to help Businesses Enhance performance through Data-Driven Solutions. Over the past 3+ years, I’ve supported 100+ founders across Uganda and Tanzania, helping teams launch products & generate more than UGX 10M+ in revenue while working with eco-system players like StartHub Africa, National ICT Innovation Hub, Stanbic Bank, UNDP, Mastercard Foundation, UN Women, among others.        
 
