@@ -8,4 +8,4 @@ Currently Obsessed with deeply understanding African Consumer Behavior & Buying 
 
 When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via my [Personal Site](https://ronnielutaro.github.io) that focuses on sharing insights towards Data-Driven Business Growth. I believe that while technology scales systems, storytelling scales truth.
 
- **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Personal Site](https://ronnielutaro.com), [Email](mailto:r.lutaro@rocketizetech.com)
+ **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Personal Site](https://ronnielutaro.github.io), [Email](mailto:r.lutaro@rocketizetech.com)
