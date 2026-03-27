@@ -6,4 +6,4 @@ Currently Obsessed with deeply understanding African Consumer Behavior & Buying 
 
 When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via the African Data-Driven Growth [Newsletter](https://ronnielutaro.github.io) that focuses on sharing insights towards Data-Driven Business Growth in African Markets. I believe that while technology scales systems, storytelling scales truth.
 
- **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Subscribe](https://ronnielutaro.github.io) to the African Data-Driven Growth Newsletter, or send me an [Email](mailto:ronnielutaro@gmail.com)
+ **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Subscribe](https://ronnielutaro.github.io) to the Data-Driven Business Growth - Newsletter, or send me an [Email](mailto:ronnielutaro@gmail.com)
