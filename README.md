@@ -6,4 +6,4 @@ Currently Obsessed about African Consumer Behavior, Marketing & Distribution. I'
 
 When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via the **African Consumer Behavior** - Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264). I believe that while technology scales systems, storytelling scales truth.
 
- **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to the Data-Driven Business Growth - Newsletter, or send me an [Email](mailto:ronnielutaro@gmail.com)
+ **Let’s Connect!** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), or by [Subscribing](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to the **African Consumer Behavior** - Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), or send me an [Email](mailto:ronnielutaro@gmail.com)
