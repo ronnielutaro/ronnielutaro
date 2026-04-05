@@ -4,40 +4,6 @@
 
 Currently Obsessed about African Consumer Behavior, Marketing & Distribution. I'm on a mission to help Businesses Enhance Growth & Performance through Data-Driven Solutions. Over the past 3+ years, I’ve supported 100+ founders across Uganda and Tanzania, helping teams launch products & generate more than UGX 10M+ in revenue while working with eco-system players like StartHub Africa, National ICT Innovation Hub, Stanbic Bank, UNDP, Mastercard Foundation, among others.         
 
-When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via the **African Consumer Behavior** - Monthly [Newsletter](<style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264" target="_blank">Subscribe on LinkedIn</a>). I believe that while technology scales systems, storytelling scales truth.
+When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via the **African Consumer Behavior** - Monthly [Newsletter](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264). I believe that while technology scales systems, storytelling scales truth.
 
- **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Subscribe](<style>
-      .libutton {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding: 7px;
-        text-align: center;
-        outline: none;
-        text-decoration: none !important;
-        color: #ffffff !important;
-        width: 200px;
-        height: 32px;
-        border-radius: 16px;
-        background-color: #0A66C2;
-        font-family: "SF Pro Text", Helvetica, sans-serif;
-      }
-    </style>
-<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264" target="_blank">Subscribe on LinkedIn</a>) to the Data-Driven Business Growth - Newsletter, or send me an [Email](mailto:ronnielutaro@gmail.com)
+ **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), [Subscribe](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to the Data-Driven Business Growth - Newsletter, or send me an [Email](mailto:ronnielutaro@gmail.com)
