@@ -2,7 +2,7 @@
 
 ### About Me
 
-Currently Obsessed about African Supply Chains, Marketing, Sales & Distribution. I'm on a mission to help Businesses Enhance Growth & Revenue through Data-Driven Solutions. 
+Currently Obsessed about African Supply Chains, Marketing & Distribution. I'm on a mission to help Businesses Enhance Growth & Revenue through Data-Driven Solutions. 
 
 Over the past 7+ years, I’ve worked across Software Product Development, Business Incubation & Acceleration. Throughout this journey, I've supported 100+ founders across Uganda and Tanzania, helping teams launch products & generate more than UGX 10M+ in revenue while working with eco-system players like StartHub Africa, National ICT Innovation Hub, Stanbic Bank, UNDP, Mastercard Foundation, among others.       
 
