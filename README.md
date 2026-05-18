@@ -8,4 +8,4 @@ Over the past 8+ years, I’ve worked across Software Product Development, Busin
 
 When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via the **African Market Intelligence** - [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) Monthly. I believe that while technology scales systems, data-driven storytelling scales truth.
 
- **Let’s Connect!** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), or [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to the **African Consumer Behavior** - Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), or send me an [Email](mailto:ronnielutaro@gmail.com)
+ **Let’s Connect!** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), or [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to my - Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), or send me an [Email](mailto:ronnielutaro@gmail.com)
