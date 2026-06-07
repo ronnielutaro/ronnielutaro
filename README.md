@@ -2,10 +2,10 @@
 
 ### About Me
 
-Currently passionate about Financial Technology, Agribusiness, and African Supply Chains. I'm on a mission to help Businesses Enhance Growth & Performance through Data-Driven Solutions. 
+Over 5+ years, I've supported 100+ founders across Uganda and Tanzania, helping them build products, launch to market, and grow revenue.
 
-Over the past 8+ years, I’ve worked across Software Product Development, Business Incubation & Acceleration. Throughout this journey, I've supported 100+ founders across Uganda and Tanzania, helping teams launch products & generate significant revenue while working with eco-system players like StartHub Africa, National ICT Innovation Hub, Stanbic Bank, UNDP, Mastercard Foundation, among others.       
+My work spans the full venture-building spectrum: business incubation programs that get early-stage founders to first product, leading acceleration tracks that push existing ventures to scale, and managing product development that turns strategy into shipped software. I currently do this at StartHub Africa, in partnership with ecosystem players including Stanbic Bank, UNDP, Mastercard Foundation, RUFORUM, and the National ICT Innovation Hub.
 
-When I'm not building Technology or working on Projects, you'll find me exploring ideas or writing via the **African Market Intelligence** - [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) Monthly. I believe that while technology scales systems, data-driven storytelling scales truth.
+What ties it together: I take ventures from wherever they are to wherever they need to be next, whether that's a working product, a revenue milestone, or a team that can execute without me.
 
- **Let’s Connect!** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), or [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to my - Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), or send me an [Email](mailto:ronnielutaro@gmail.com)
+When I'm not building with founders, I write. I run **African Market Intelligence** - [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), a monthly newsletter predicting winning market moves by decoding African consumer behavior before spending a single dollar. If you're growing something in Africa, or funding those who are, **Let’s Connect!** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/), or [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to my - Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), or send me an [Email](mailto:ronnielutaro@gmail.com)
