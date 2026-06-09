@@ -2,7 +2,7 @@
 
 ### About Me
 
-Over 5+ years, I've supported 100+ founders across Uganda and Tanzania, helping them build products, launch to market, and grow revenue.
+Over 5+ years, I've supported 300+ founders across Uganda and Tanzania, helping them build products, launch to market, and grow revenue.
 
 My work spans the full venture-building spectrum: business incubation programs that get early-stage founders to first product, leading acceleration tracks that push existing ventures to scale, and managing product development that turns strategy into shipped software. I currently do this at StartHub Africa, in partnership with ecosystem players including Stanbic Bank, UNDP, Mastercard Foundation, RUFORUM, and the National ICT Innovation Hub.
 
