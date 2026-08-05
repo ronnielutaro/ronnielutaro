@@ -2,7 +2,7 @@
 
 ### About Me
 
-Applied AI and Machine Learning Engineer focused on building production-grade AI systems and technology products.
+Applied AI and Machine Learning Engineer focused on building production-grade AI systems and technology products in Africa.
 
 My work spans product engineering, machine learning model development, deployment, and translating technical insights into practical business value.
 
