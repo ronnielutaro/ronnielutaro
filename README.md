@@ -2,7 +2,7 @@
 
 ### About Me
 
-Applied AI and Machine Learning Engineer focused on building production-grade AI systems and DeepTech Products products.
+Applied AI and Machine Learning Engineer focused on building production-grade AI systems and DeepTech Products.
 
 My work spans product engineering, machine learning model development, deployment, and translating technical insights into practical business value. I've supported 100+ founders & Businesses across Uganda, Kenya and Tanzania, helping them build products, launch to market, and grow revenue. I've done this while working with ecosystem players like StartHub Africa, Stanbic Bank, UNDP, RUFORUM, and the National ICT Innovation Hub.
 
