@@ -2,7 +2,7 @@
 
 ### About Me
 
-Product Manager & Machine Learning Engineer Building & Deploying Products in Africa.
+Product Manager & Machine Learning Engineer Building & Deploying Intelligent Products in Africa.
 
 My work spans product engineering, machine learning model development & deployment, and product strategy with a focus on translating user needs into technical requirements and practical business value. I've supported 100+ founders & Businesses across Uganda, Kenya and Tanzania, helping them build products, launch to market, and grow revenue. I've done this while working with ecosystem players like StartHub Africa, Stanbic Bank, UNDP, RUFORUM, and the National ICT Innovation Hub.
 
