@@ -2,7 +2,7 @@
 
 ### About Me
 
-My work over the past 7+ years spans Product Engineering, Product Strategy, Artificial Intelligence and Project Management, while working with cross-functional teams; Engineering, Design, and Ops to translate user needs into practical business value. 
+My work over the past 7+ years spans Product Engineering, Product Strategy, Artificial Intelligence, and Project Management, while working with cross-functional teams; Engineering, Design, and Ops to translate user needs into practical business value. 
 
 I've supported [100+ founders & Businesses](https://lnkd.in/p/dQMuhuQw) across Uganda, Kenya and Tanzania, helping them build products, launch to market, and grow revenue. I've done this while working with ecosystem players like StartHub Africa, Stanbic Bank, UNDP, RUFORUM, and the National ICT Innovation Hub.
 
