@@ -8,4 +8,4 @@ Supported [100+ Founders & Businesses](https://lnkd.in/p/dQMuhuQw) across Uganda
 
 I also write about the trends, technologies, and market forces shaping business & consumer behavior across Africa through the **African Market Intelligence** [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264), a monthly deep dive I created for strategists, investors, and builders navigating African markets. 
 
-If you’re building, scaling, or investing in Africa, **Let’s Connect** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/) & [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to my Monthly [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264).
+If you’re building, scaling, or investing in Africa, **Let’s Connect** on [LinkedIn](https://www.linkedin.com/in/ronnie-lutaro-b73240aa/) & [Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264) to the [Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7446446962318475264).
