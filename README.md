@@ -2,7 +2,7 @@
 
 ### About Me
 
-My work over the past 7+ years spans Product Management, Software Engineering, Project Management, and Artificial Intelligence, while collaborating with cross-functional Agile teams; Business, Engineering, Design, and Ops to translate user needs into practical Business Value & Products that users love. Worked across industries like; Mobility, Logistics, FinTech, and Venture Building.
+My work over the past 7+ years spans Product Management, Software Engineering, Venture Building, and Artificial Intelligence, while collaborating with cross-functional Agile teams; Business, Engineering, Design, and Ops to translate user needs into practical Business Value & Products that users love. Worked across industries like; Mobility, Logistics, FinTech, and Venture Building.
 
 Supported [100+ Founders & Businesses](https://lnkd.in/p/dQMuhuQw) across Uganda, Kenya and [Tanzania](https://lnkd.in/p/dQMuhuQw), helping them build products, launch to market, and grow revenue. I've done this while working with ecosystem players like StartHub Africa, Stanbic Bank, UNDP, National ICT Innovation Hub, among others.
 
